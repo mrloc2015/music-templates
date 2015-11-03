@@ -240,79 +240,79 @@
             cssSelectorAncestor: "#jquery_playlist_2"
         }, [
             {
-                title:"Cro Magnon Man",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Your Face",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Cyber Sonnet",
+                title:"Đập vỡ cây đàn",
                m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Tempered Song",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Hidden",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Lentement",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Lismore",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"The Separation",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Beside Me",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Bubble",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Stirring of a Fool",
+                title:"Đập vỡ cây đàn",
                  m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Partir",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
             },
             {
-                title:"Thin Ice",
+                title:"Đập vỡ cây đàn",
                 m4a: "music/dapvocaydan.mp3",
                     oga: "music/dapvocaydan.mp3",
 					mp3: "music/dapvocaydan.mp3"
